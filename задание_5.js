@@ -9,5 +9,5 @@
 
 const setExtents = (x, n) => {
   const result = Map.pow(x, n);
-  return result;
+  console.log(result);
 };
